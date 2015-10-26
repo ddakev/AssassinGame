@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-966c3cb026f42795e1ceac210d5d96c205628893.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-c637fea876f220335cc01a5f1a47de5273e01994.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-e5e7c119a262c978bead50c63a9172080aeb194b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-dbf0bd51b621c2e442900dfe4a85a19363d8234b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-9eac763ad323047e54fa74d9415ddf0bfb44dbf7.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-e8dc602605af49e2269742c090aa8f244999d929.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-38804061720aa0bbe41615ce9f8e9813b42132ca.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-6a9a159057bd45163a022fe5e8de87902f4a6394.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-ae91fa152e5679dfb803487dd8d1720a34c718cb.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-26bef5211b8e8abc3231b9a3b2227fc3b1ebd38b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-09f82c1486ffc7d8768620dd13ec031a5ab8cb54.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-e86a6766db3453192c73e758ea964c550f5c4c9a.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-251ce6ba3eb025ec132d6e2fbef429188eb21caa.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-9e3e7d9c27d96864204391c37f7cc82e9d1c17ed.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-dfe900b3aa365d29b235254f5579412275fee3ee.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-fc83acb5a220ffb30a7ea883e8a8c0625a1b5668.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-290438cd519ec942eadd99c1631be1ccf2d92ae4.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-ef95f7d31b92c3a1375bf3acbcb2afb3b4d5b04b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-41b4c3f6fb8cdfde3389eda19b139ad1b08675fc.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-f0c2773b856f9ccc04103504004909c3dd63da9a.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-6db745e43fa34f6ef234a775082c99d320207db9.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-1142230ed500b010e7e537a3c352bcd508e579fb.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Android\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\informatics\android_projects\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-597cd6d1bfdda786656b5c5f502d7180be579657.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-82fcb5b616cdf040e9b4a705f79c78d4bdcd82da.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-59783589368f43f4f10706b1f4cab4b3383a3bb6.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-ab804f9f70d3890029e587a62214b87204d2560b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-52e407ceafdad6e031451d38c4223b6cdb245e35.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-b3b6503eb10d190ac04709e1c8dfdbd273005be0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-d58db70852c4c2016334f3ec28ce3dcf542dce06.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-27979a296f53cba25fef7380cfe6752b7295b01d.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\libs\Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\Parse-1.10.2-e25cc1c745e383b54c309b3e35041247c7d6569b.jar" />
+    </item>
+    <item
+        jar="D:\dani\assassinAndroidGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\dani\assassinAndroidGame\app\build\intermediates\pre-dexed\debug\classes-3885ce41f54fe37006e24ab2de8ecc2dfb347646.jar" />
+    </item>
+
+</items>
